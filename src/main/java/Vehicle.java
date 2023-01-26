@@ -1,4 +1,8 @@
 public class Vehicle {
+
+    //public Vehicle(int foo) {
+      //  int i = 1 + 1;
+    //}
     private int milesPerGallon = 20;
     private double gallonsOfGas = 10.00;
     private int odometer = 0;
